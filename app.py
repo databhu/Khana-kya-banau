@@ -6,7 +6,7 @@ import base64
 import io
 import os
 
-st.title("🍲 Food Detector & Recipe Generator (OpenAI only)")
+st.title("🍲 Khana Kya Banau App (OpenAI only)")
 st.write("Take or upload a photo of your ingredients, and get Indian recipes!")
 
 # API Key input from user
